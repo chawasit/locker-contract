@@ -14,5 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "truffle-hdwallet-provider": "0.0.6"
   }
 }
