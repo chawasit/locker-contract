@@ -1,6 +1,5 @@
 # Locker Contract
-
-using truffle pet-shop box
+One night Mob programming project using truffle pet-shop box as started point.
 
 
 ```bash
